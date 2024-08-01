@@ -1,0 +1,196 @@
+body {
+    background-color: #333333;
+    font-family: 'Arial', sans-serif;
+    padding-top: 60px;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #444444; /* Dark gray background for the card */
+    color: #ffffff; /* White text for the card */
+    margin-bottom: 20px; /* Add margin to the bottom of the card */
+}
+
+.card-title {
+    margin-bottom: 20px;
+    color: #ffffff; /* White text for card titles */
+}
+
+.social-login .btn {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-login .btn i {
+    margin-right: 10px;
+}
+
+.or-separator {
+    text-align: center;
+    margin: 20px 0;
+    position: relative;
+}
+
+.or-separator .or-text {
+    background-color: #444444;
+    padding: 0 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.or-separator::before {
+    content: '';
+    display: block;
+    border-top: 1px solid #ddd;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    z-index: 0;
+}
+
+.form-check-label {
+    margin-left: 10px;
+}
+
+.btn-primary {
+    background-color: #9fc5c6; /* Match the lighter green color */
+    border-color: #9fc5c6;
+}
+
+.btn-primary:hover {
+    background-color: #7fa1a1;
+    border-color: #7fa1a1;
+}
+
+.btn-danger {
+    background-color: #db4437;
+    border-color: #db4437;
+}
+
+.btn-danger:hover {
+    background-color: #c23321;
+    border-color: #c23321;
+}
+
+.form-control {
+    border-radius: 25px;
+}
+
+.btn-block {
+    border-radius: 25px;
+}
+
+.navbar {
+    background-color: #444444; /* Match navbar color */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar .navbar-brand img {
+    max-width: 150px;
+}
+
+.navbar .nav-link {
+    color: #d4d4d4;
+    font-size: 1.1rem;
+}
+
+.navbar .nav-link:hover {
+    color: #9fc5c6;
+}
+
+.navbar .dropdown-menu {
+    background-color: #444444;
+}
+
+.navbar .dropdown-item {
+    color: #d4d4d4;
+}
+
+.navbar .dropdown-item:hover {
+    background-color: #444444;
+    color: #9fc5c6;
+}
+
+.navbar-toggler {
+    border-color: #d4d4d4;
+}
+
+.navbar-toggler-icon {
+    background-color: #d4d4d4;
+}
+
+.navbar-nav .nav-item span.nav-link.separator {
+    margin: 0;
+    padding: 0 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d4d4d4;
+}
+
+.footer {
+    background-color: #444444; /* Match footer color with navbar color */
+    color: #d4d4d4; /* Light gray color for text */
+    padding: 20px 0;
+}
+
+.footer a {
+    color: #9fc5c6; /* Lighter green color for links */
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #7fa1a1; /* Lighter green color for hover */
+}
+
+.footer .social-icons a {
+    margin-right: 10px;
+}
+
+.footer .social-icons i {
+    font-size: 1.5rem;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer .container div {
+    flex: 1;
+    text-align: center;
+}
+
+.footer .container .quick-links {
+    text-align: right;
+}
+
+.footer .container .quick-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer .container .quick-links ul li {
+    margin-bottom: 10px;
+}
+
+.footer .container .quick-links ul li a {
+    color: #d4d4d4;
+    text-decoration: none;
+}
+
+.footer .container .quick-links ul li a:hover {
+    color: #9fc5c6;
+}
+
+.footer {
+    margin-top: 40px; /* Add margin to the top of the footer */
+}

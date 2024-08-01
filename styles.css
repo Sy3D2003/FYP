@@ -1,0 +1,373 @@
+body {
+    background-color: #333333;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    padding-top: 60px;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #444444;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar-brand img {
+    max-width: 150px;
+}
+
+.navbar-nav .nav-link {
+    color: #d4d4d4;
+    font-size: 1.1rem;
+    margin-right: 15px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #20c997; /* Teal color for hover */
+}
+
+.navbar-nav .dropdown-menu {
+    background-color: #444444;
+}
+
+.navbar-nav .dropdown-item {
+    color: #d4d4d4;
+}
+
+.navbar-nav .dropdown-item:hover {
+    background-color: #444444;
+    color: #20c997; /* Teal color for hover */
+}
+
+.navbar-toggler {
+    border-color: #d4d4d4;
+}
+
+.navbar-toggler-icon {
+    background-color: #d4d4d4;
+}
+
+.navbar-nav .nav-item span.nav-link.separator {
+    margin: 0;
+    padding: 0 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d4d4d4;
+}
+
+/* Ensure logo and navigation alignment */
+.navbar-brand,
+.navbar-nav {
+    align-items: center;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+}
+
+/* Form and button styles */
+.form-control {
+    border-radius: 25px;
+}
+
+.btn-block {
+    border-radius: 25px;
+}
+
+.btn-primary {
+    background-color: #20c997; /* Teal color */
+    border-color: #20c997;
+    color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: #1aa786;
+    border-color: #1aa786;
+}
+
+.btn-danger {
+    background-color: #db4437;
+    border-color: #db4437;
+}
+
+.btn-danger:hover {
+    background-color: #c23321;
+    border-color: #c23321;
+}
+
+.btn-circle {
+    border-radius: 50%;
+    padding: 10px 15px;
+}
+
+.social-login .btn {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-login .btn i {
+    margin-right: 10px;
+}
+
+/* Separator styles */
+.or-separator {
+    text-align: center;
+    margin: 20px 0;
+    position: relative;
+}
+
+.or-separator .or-text {
+    background-color: #444444;
+    padding: 0 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.or-separator::before {
+    content: '';
+    display: block;
+    border-top: 1px solid #ddd;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    z-index: 0;
+}
+
+/* Form check label */
+.form-check-label {
+    margin-left: 10px;
+}
+
+/* Card styles */
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #444444;
+    color: #ffffff;
+}
+
+.card-title {
+    margin-bottom: 20px;
+    color: #20c997; /* Teal color for card titles */
+}
+
+/* Scam type styles */
+.scam-type {
+    margin-bottom: 30px;
+}
+
+.scam-type h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.scam-type p,
+.scam-type ul {
+    font-size: 1.1rem;
+    color: #bbbbbb;
+}
+
+/* Add padding to the content */
+.content-container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Ensure the YouTube video is centered and fits well */
+.embed-responsive {
+    margin-top: 20px;
+    max-width: 560px; 
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Container for the tabs and content */
+.tab-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+/* Tab Indicator Styles */
+.tabs {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.tab-link {
+    background-color: #555555;
+    color: white;
+    padding: 10px 16px;
+    text-align: left;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.tab-link:hover {
+    background-color: #777777;
+}
+
+.tab-link.active {
+    background-color: #20c997; /* Teal color */
+    color: white;
+}
+
+.tab-content {
+    display: none;
+    width: 100%;
+    animation: fadeEffect 0.5s;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* Add animation for tab content */
+@keyframes fadeEffect {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* New footer styles */
+.footer {
+    background-color: #444444;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.footer-column {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.footer-column h4 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #20c997; /* Teal color for footer titles */
+}
+
+.footer-column p,
+.footer-column a {
+    color: white;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+
+.footer-column a:hover {
+    text-decoration: underline;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.progress-bar {
+    width: 0%;
+}
+
+.quiz-container {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.quiz-hidden {
+    transform: translateX(-100%);
+}
+
+#quiz-section {
+    display: none;
+}
+
+/* Ray Background Effect */
+.ray-background {
+    position: relative;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #00f260, #0575e6);
+    background-size: 400% 400%;
+    animation: gradientAnimation 15s ease infinite;
+    color: #fff;
+}
+
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.ray-background::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(0, 51, 102, 0.8), rgba(0, 26, 77, 0.8));
+    background-size: 400% 400%;
+    animation: gradientAnimation 15s ease infinite;
+    z-index: 1;
+    filter: blur(8px);
+}
+
+.ray-background .card-body {
+    position: relative;
+    z-index: 2;
+}
+
+
+/* Teal Color for Headings */
+.instructions h3, .instructions h4, .form-section h3 {
+    color: #00b3b3; /* Teal color for headings */
+}
+
+.teal-heading {
+    color: #00b3b3; /* Teal color */
+}

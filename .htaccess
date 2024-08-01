@@ -1,0 +1,2 @@
+SetEnv PATH "C:\Users\brouf\AppData\Local\Programs\Python\Python312;C:\Windows\System32"
+SetEnv PYTHONPATH "C:\Users\brouf\AppData\Local\Programs\Python\Python312\Lib"

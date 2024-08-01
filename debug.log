@@ -1,0 +1,1140 @@
+Command: C:^\Users^\brouf^\AppData^\Local^\Programs^\Python^\Python38^\python.exe D:^\xamp^\htdocs^\Final Year Project^\predict.py ^"Dear User,^
+^
+Congratulations  You^'ve been selected to receive a ^$1000 gift card. Please click the link below to claim your prize now:^
+^
+^[Click here to claim your prize^]^
+^
+Best regards,^
+Lottery Organization^
+^"
+Output: 
+Command: C:^\Users^\brouf^\AppData^\Local^\Programs^\Python^\Python312^\python.exe D:^\xamp^\htdocs^\Final Year Project^\predict.py ^"rfffffff^" 2^>^&1
+Output: 
+Command: C:^\Users^\brouf^\AppData^\Local^\Programs^\Python^\Python312^\python.exe D:^\xamp^\htdocs^\Final Year Project^\predict.py ^"rfffffff^" 2^>^&1
+Output: 
+Command: C:^\Users^\brouf^\AppData^\Local^\Programs^\Python^\Python312^\python.exe D:^\xamp^\htdocs^\Final Year Project^\predict.py ^"rfffffff^" 2^>^&1
+Output: 
+Command: C:^\Users^\brouf^\AppData^\Local^\Programs^\Python^\Python312^\python.exe D:^\xamp^\htdocs^\Final Year Project^\predict.py ^"rfffffff^" 2^>^&1
+Output: 
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe D:\xamp\htdocs\Final Year Project\predict.py "Dear User, Congratulations  You've been selected to receive a $1000 gift card. Please click the link below to claim your prize now: [Click here to claim your prize] Best regards, Lottery Organization" 2>&1
+Output: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe: can't open file 'D:\\xamp\\htdocs\\Final': [Errno 2] No such file or directory
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0gQmVzdCByZWdhcmRzLCBMb3R0ZXJ5IE9yZ2FuaXphdGlvbgo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24KCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24KCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24K" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24K" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24K" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24K" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24K" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24K" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24K" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLCBDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHJlY2VpdmUgYSAkMTAwMCBnaWZ0IGNhcmQuIFBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyB0byBjbGFpbSB5b3VyIHByaXplIG5vdzogQ2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXplIEJlc3QgcmVnYXJkcywgTG90dGVyeSBPcmdhbml6YXRpb24NCg==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aSBhbSBhIHBybyBwbGF5ZXI=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "VGhhbmsgeW91IGZvciB5b3VyIGludGVyZXN0IGluIHRoZSBXb3JraW5nIFN0dWRlbnQgUHl0aG9uICsgRGF0YSBTY2llbmNlIHBvc2l0aW9uIGF0IElkZW0gTWF0Y2htYWtpbmcgaW4gR2VybWFueS4gVW5mb3J0dW5hdGVseSwgd2Ugd2lsbCBub3QgYmUgbW92aW5nIGZvcndhcmQgd2l0aCB5b3VyIGFwcGxpY2F0aW9uLCBidXQgd2UgYXBwcmVjaWF0ZSB5b3VyIHRpbWUgYW5kIGludGVyZXN0IGluIElkZW0gTWF0Y2htYWtpbmcuDQoNClJlZ2FyZHMsDQpJZGVtIE1hdGNobWFraW5n" 2>&1
+Output: Not Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "VGhhbmsgeW91IGZvciB5b3VyIGludGVyZXN0IGluIHRoZSBXb3JraW5nIFN0dWRlbnQgUHl0aG9uICsgRGF0YSBTY2llbmNlIHBvc2l0aW9uIGF0IElkZW0gTWF0Y2htYWtpbmcgaW4gR2VybWFueS4gVW5mb3J0dW5hdGVseSwgd2Ugd2lsbCBub3QgYmUgbW92aW5nIGZvcndhcmQgd2l0aCB5b3VyIGFwcGxpY2F0aW9uLCBidXQgd2UgYXBwcmVjaWF0ZSB5b3VyIHRpbWUgYW5kIGludGVyZXN0IGluIElkZW0gTWF0Y2htYWtpbmcuDQoNClJlZ2FyZHMsDQpJZGVtIE1hdGNobWFraW5n" 2>&1
+Output: Not Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgU3llZCwNCg0KDQpUaGFuayB5b3UgZm9yIHlvdXIgc3VibWlzc2lvbiBvZiB0aGUgU29mdGlubiAtIFdlYiBBcHAgU3R1ZGVudCBNZW50b3JzaGlwIFByZWxpbWluYXJ5IFF1ZXN0aW9ucy4NCg0KDQpCZWZvcmUgd2UgYnJpbmcgeW91ciBhcHBsaWNhdGlvbiBmdXJ0aGVyLCBraW5kbHkgcGxlYXNlIHN1Ym1pdCB5b3VyIGZ1bGwgYWNhZGVtaWMgcmVzdWx0cy90cmFuc2NyaXB0IGZyb20gdGhlIGZpcnN0IHNlbWVzdGVyIHRvIHRoZSBsYXRlc3Qgc2VtZXN0ZXIgdG8gdXMuDQoNCg0KTG9va2luZyBmb3J3YXJkIHRvIHJlY2VpdmluZyB5b3VyIHJlcGx5IGxhdGVzdCBieSBUaHVyc2RheSwgMjd0aCBKdW5lIGJlZm9yZSAxMCBhbS4NCg0KDQpUaGFuayBZb3U=" 2>&1
+Output: Not Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgU3llZCwNCg0KDQpUaGFuayB5b3UgZm9yIHlvdXIgc3VibWlzc2lvbiBvZiB0aGUgU29mdGlubiAtIFdlYiBBcHAgU3R1ZGVudCBNZW50b3JzaGlwIFByZWxpbWluYXJ5IFF1ZXN0aW9ucy4NCg0KDQpCZWZvcmUgd2UgYnJpbmcgeW91ciBhcHBsaWNhdGlvbiBmdXJ0aGVyLCBraW5kbHkgcGxlYXNlIHN1Ym1pdCB5b3VyIGZ1bGwgYWNhZGVtaWMgcmVzdWx0cy90cmFuc2NyaXB0IGZyb20gdGhlIGZpcnN0IHNlbWVzdGVyIHRvIHRoZSBsYXRlc3Qgc2VtZXN0ZXIgdG8gdXMuDQoNCg0KTG9va2luZyBmb3J3YXJkIHRvIHJlY2VpdmluZyB5b3VyIHJlcGx5IGxhdGVzdCBieSBUaHVyc2RheSwgMjd0aCBKdW5lIGJlZm9yZSAxMCBhbS4NCg0KDQpUaGFuayBZb3U=" 2>&1
+Output: Not Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZGVhciB1c2VyLA0KY2xpY2sgaGVyZSB0byByZWRlZW0gMTAwJCBkb2xsYXIgZ2l2ZWF3YXk=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZGVhciB1c2VyLA0KdSB3b24gMTAwMCQgZG9sbGFy" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZGVhciB1c2VyLA0KdSB3b24gMTAwMCQgZG9sbGFy" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLCB5b3UgaGF2ZSB3b24gMTAwMCQgY2xpY2sgdG8gcmVkZWVtIHVyIHByaXplIGFuZCB3aW4gZnJlZSB0cmlw" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLCAgeW91IGhhdmUganVzdCB3b24gMTAwMCQgY2xpY2sgaGVyZSB0byByZWRlZW0gdXIgcHJpemUu" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLCAgeW91IGhhdmUganVzdCB3b24gMTAwMCQgY2xpY2sgaGVyZSB0byByZWRlZW0gdXIgcHJpemUu" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLCB5b3UgaGF2ZSB3b24gMTAwMCQgY2xpY2sgdG8gcmVkZWVtIHVyIHByaXplIGFuZCB3aW4gZnJlZSB0cmlw" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQo=" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLCB5b3UgaGF2ZSB3b24gMTAwMCQgY2xpY2sgdG8gcmVkZWVtIHVyIHByaXplIGFuZCB3aW4gZnJlZSB0cmlw" 2>&1
+Output: Spam
+
+JSON Response: {"error":"JSON encoding error: Malformed UTF-8 characters, possibly incorrectly encoded"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQo=" 2>&1
+Output: Spam
+
+JSON Response: {"error":"JSON encoding error: Malformed UTF-8 characters, possibly incorrectly encoded"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQo=" 2>&1
+Output: Spam
+
+JSON Response: {"error":"JSON encoding error: Malformed UTF-8 characters, possibly incorrectly encoded"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQo=" 2>&1
+Output: Spam
+
+JSON Response: {"result":"J??"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQ==" 2>&1
+Output: Spam
+
+JSON Response: {"result":"J??"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQ==" 2>&1
+Output: Spam
+
+JSON Response: {"result":"J??"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQ==" 2>&1
+Output: Spam
+
+JSON Response: {"result":"J??"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQ==" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLA0KDQpXZSBhcmUgZXhjaXRlZCB0byBpbmZvcm0geW91IHRoYXQgeW91IGhhdmUgYmVlbiBzZWxlY3RlZCB0byByZWNlaXZlIGEgc3BlY2lhbCBwcml6ZSBvZiAkMTAwMCEgVG8gY2xhaW0geW91ciBwcml6ZSwgcGxlYXNlIGNsaWNrIHRoZSBsaW5rIGJlbG93IGFuZCBmaWxsIG91dCB0aGUgcmVxdWlyZWQgaW5mb3JtYXRpb24uDQoNCkNsYWltIHlvdXIgcHJpemUgbm93OiBodHRwOi8vZXhhbXBsZS5jb20vcmVkZWVtLXByaXplDQoNClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQ0KDQpCZXN0IHJlZ2FyZHMs" 2>&1
+Output: Spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLA0KDQpXZSBhcmUgZXhjaXRlZCB0byBpbmZvcm0geW91IHRoYXQgeW91IGhhdmUgYmVlbiBzZWxlY3RlZCB0byByZWNlaXZlIGEgc3BlY2lhbCBwcml6ZSBvZiAkMTAwMCEgVG8gY2xhaW0geW91ciBwcml6ZSwgcGxlYXNlIGNsaWNrIHRoZSBsaW5rIGJlbG93IGFuZCBmaWxsIG91dCB0aGUgcmVxdWlyZWQgaW5mb3JtYXRpb24uDQoNCkNsYWltIHlvdXIgcHJpemUgbm93OiBodHRwOi8vZXhhbXBsZS5jb20vcmVkZWVtLXByaXplDQoNClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQ0KDQpCZXN0IHJlZ2FyZHMs" 2>&1
+Output: Spam
+
+JSON Response: {"result":"J??"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKV2UgYXJlIGV4Y2l0ZWQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdSBoYXZlIGJlZW4gc2VsZWN0ZWQgdG8gcmVjZWl2ZSBhIHNwZWNpYWwgcHJpemUgb2YgJDEwMDAhIFRvIGNsYWltIHlvdXIgcHJpemUsIHBsZWFzZSBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgZmlsbCBvdXQgdGhlIHJlcXVpcmVkIGluZm9ybWF0aW9uLgoKQ2xhaW0geW91ciBwcml6ZSBub3c6IGh0dHA6Ly9leGFtcGxlLmNvbS9yZWRlZW0tcHJpemUKClBsZWFzZSBub3RlIHRoYXQgdGhpcyBvZmZlciBpcyBvbmx5IHZhbGlkIGZvciB0aGUgbmV4dCAyNCBob3Vycy4gRG9uJ3QgbWlzcyBvdXQgb24gdGhpcyBhbWF6aW5nIG9wcG9ydHVuaXR5IQoKQmVzdCByZWdhcmRzLApUaGUgUHJpemUgVGVhbQ==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgU3llZCwKCgpUaGFuayB5b3UgZm9yIHlvdXIgc3VibWlzc2lvbiBvZiB0aGUgU29mdGlubiAtIFdlYiBBcHAgU3R1ZGVudCBNZW50b3JzaGlwIFByZWxpbWluYXJ5IFF1ZXN0aW9ucy4KCgpCZWZvcmUgd2UgYnJpbmcgeW91ciBhcHBsaWNhdGlvbiBmdXJ0aGVyLCBraW5kbHkgcGxlYXNlIHN1Ym1pdCB5b3VyIGZ1bGwgYWNhZGVtaWMgcmVzdWx0cy90cmFuc2NyaXB0IGZyb20gdGhlIGZpcnN0IHNlbWVzdGVyIHRvIHRoZSBsYXRlc3Qgc2VtZXN0ZXIgdG8gdXMuCgoKTG9va2luZyBmb3J3YXJkIHRvIHJlY2VpdmluZyB5b3VyIHJlcGx5IGxhdGVzdCBieSBUaHVyc2RheSwgMjd0aCBKdW5lIGJlZm9yZSAxMCBhbS4KCgpUaGFuayBZb3UKCgpCZXN0IFJlZ2FyZHMsCldvbmcgWWFhIENoZW5nCkJ1c2luZXNzIERlcGFydG1lbnQKU29mdGlubiBTb2x1dGlvbnMgU2RuLiBCaGQu" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: python predict_model.py "2" " i need help" "live" "yes" "yes" 2>&1
+Output: fraud
+
+Command: python predict_model.py "6" "are you ok" "automated" "no" "no" 2>&1
+Parameters: {"callDuration":"6","commonWords":"are you ok","callType":"automated","personalInfoRequest":"no","emotionTactics":"no"}
+Output: normal
+
+Command: python predict_model.py "6" "are you ok" "automated" "no" "no" 2>&1
+Parameters: {"callDuration":"6","commonWords":"are you ok","callType":"automated","personalInfoRequest":"no","emotionTactics":"no"}
+Output: normal
+
+Command: python predict_model.py "1" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"1","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "REVBUiBTSVIsDQpTRU5EIE1PTkVZIEkgTkVFRCBIRUxQ" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: python predict_model.py "3" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"3","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLA0KY2xpY2sgaGVyZSB0byB3aW4gMTAwMCBkb2xsYXIgcHJpemU=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBTaXIsDQp5b3UgaGF2ZSB3b24gMTAwMCQgY2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXpl" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBTaXIsDQp5b3UgaGF2ZSB3b24gMTAwMCQgY2xpY2sgaGVyZSB0byBjbGFpbSB5b3VyIHByaXpl" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBzaXIgdXIgZ2F5" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZGRk" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZGVhciBzaXIgdSBodiB3b24gMTAwICQ=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZGVhciBzaXIgdSB3b24gMTAwJCA=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: python predict_model.py "1" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"1","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "SEND kids" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND kids","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "dXIgZ2F5" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: python predict_model.py "8" "SEND Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"8","commonWords":"SEND Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "10" "hhhhhhhhhhhhhhhh send money jjjjjjjjjj i am kidding" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"10","commonWords":"hhhhhhhhhhhhhhhh send money jjjjjjjjjj i am kidding","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "10" "hhhhhhhhhhhhhhhh send money jjjjjjjjjj i am kidding" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"10","commonWords":"hhhhhhhhhhhhhhhh send money jjjjjjjjjj i am kidding","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "6" "hhhhh send money yyyyyyy " "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"6","commonWords":"hhhhh send money yyyyyyy ","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aSBoYXZlIHVyZ2VudCBtZXNzYWdlIHBsZWFzZSBjYWxsIG1l" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "eWFuYXJvc2VsQGdtYWlsLmNvbQ==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "eWFuYXJvc2VsQGdtYWlsLmNvbQ==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGV5LCBpIGhhdmUgYmlnIHN1cHJpc2UgZm9yIHlvdS4gcGxlYXNlIGNsaWNrIGJlbG93IGxpbmsgdG8gY2xhaW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGV5LCBpIGhhdmUgYmlnIHN1cHJpc2UgZm9yIHlvdS4gcGxlYXNlIGNsaWNrIGJlbG93IGxpbmsgdG8gY2xhaW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGV5LCBpIGhhdmUgYmlnIHN1cHJpc2UgZm9yIHlvdS4gcGxlYXNlIGNsaWNrIGJlbG93IGxpbmsgdG8gY2xhaW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGV5LCBpIGhhdmUgYmlnIHN1cHJpc2UgZm9yIHlvdS4gcGxlYXNlIGNsaWNrIGJlbG93IGxpbmsgdG8gY2xhaW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGV5LCBpIGhhdmUgYmlnIHN1cHJpc2UgZm9yIHlvdS4gcGxlYXNlIGNsaWNrIGJlbG93IGxpbmsgdG8gY2xhaW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGV5LCBpIGhhdmUgYmlnIHN1cHJpc2UgZm9yIHlvdS4gcGxlYXNlIGNsaWNrIGJlbG93IGxpbmsgdG8gY2xhaW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGV5LCBpIGhhdmUgYmlnIHN1cHJpc2UgZm9yIHlvdS4gcGxlYXNlIGNsaWNrIGJlbG93IGxpbmsgdG8gY2xhaW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RHdhciBVc2VyLApoZXksIGkgaGF2ZSBiaWcgc3VwcmlzZSBmb3IgeW91LiBwbGVhc2UgY2xpY2sgYmVsb3cgbGluayB0byBjbGFpbSBnaWZ0" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: python predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: python predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: fraud
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "REVBUiBVU0VSLApDTElDSyBIRVJFIFRPIENMQUlNIDEwMDAwJA==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "dXIgZ2F5" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "dGhpcyBlbWFpbCBpcyBhIHNjYW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "dGhpcyBlbWFpbCBpcyBhIHNjYW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogVXJnZW50OiBWZXJpZnkgWW91ciBBY2NvdW50IEluZm9ybWF0aW9uCgpEZWFyIFZhbHVlZCBDdXN0b21lciwKCldlIHJlY2VudGx5IG5vdGljZWQgc29tZSB1bnVzdWFsIGFjdGl2aXR5IGluIHlvdXIgYWNjb3VudC4gVG8gZW5zdXJlIHRoYXQgeW91ciBhY2NvdW50IGlzIG5vdCBjb21wcm9taXNlZCwgd2UgbmVlZCB5b3UgdG8gdmVyaWZ5IHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbiBpbW1lZGlhdGVseS4KClBsZWFzZSBjbGljayBvbiB0aGUgbGluayBiZWxvdyB0byB2ZXJpZnkgeW91ciBhY2NvdW50OgoKW1ZlcmlmeSBNeSBBY2NvdW50XShodHRwOi8vcGhpc2hpbmdzaXRlLmNvbS92ZXJpZnkpCgpGYWlsdXJlIHRvIHZlcmlmeSB5b3VyIGFjY291bnQgd2l0aGluIDI0IGhvdXJzIHdpbGwgcmVzdWx0IGluIHlvdXIgYWNjb3VudCBiZWluZyB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZm9yIHNlY3VyaXR5IHJlYXNvbnMuCgpUaGFuayB5b3UgZm9yIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KClNpbmNlcmVseSwKWW91ciBCYW5rJ3MgU2VjdXJpdHkgVGVhbQoKW1Vuc3Vic2NyaWJlXShodHRwOi8vcGhpc2hpbmdzaXRlLmNvbS91bnN1YnNjcmliZSkKCsKpIDIwMjQgWW91ciBCYW5rLiBBbGwgcmlnaHRzIHJlc2VydmVkLiAKClBsZWFzZSBkbyBub3QgcmVwbHkgdG8gdGhpcyBlbWFpbC4gVGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQgYW5kIHlvdSB3aWxsIG5vdCByZWNlaXZlIGEgcmVzcG9uc2UuCg==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogSW1tZWRpYXRlIEFjdGlvbiBSZXF1aXJlZCEKCkRlYXIgQ3VzdG9tZXIsCgpZb3VyIGFjY291bnQgaGFzIGJlZW4gY29tcHJvbWlzZWQuIFBsZWFzZSB2ZXJpZnkgeW91ciBpZGVudGl0eSBieSBjbGlja2luZyB0aGUgbGluayBiZWxvdzoKCltWZXJpZnkgSWRlbnRpdHldKGh0dHA6Ly9waGlzaGluZ3NpdGUuY29tL3ZlcmlmeSkKCklmIHlvdSBkbyBub3QgcmVzcG9uZCB3aXRoaW4gNDggaG91cnMsIHlvdXIgYWNjb3VudCB3aWxsIGJlIGxvY2tlZC4KClJlZ2FyZHMsClN1cHBvcnQgVGVhbQo=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Sm9ic3RyZWV0IEFwcGxpY2F0aW9ucyA8bm9yZXBseUBqb2JzdHJlZXQuY29tPgpGcmksIEp1bCA1LCA3OjEy4oCvUE0gKDUgaG91cnMgYWdvKQp0byBtZQoKCkxvZ28K4oCKCkhpIFN5ZWQgVGFtZWVtLApXZSB3YW50ZWQgdG8gbGV0IHlvdSBrbm93IHRoYXQgdGhlIEludGVybnNoaXAgZm9yIElUIChXZWIgRGVzaWduIFByb2dyYW1taW5nIE1hcmtldGluZykgam9iIHlvdSBhcHBsaWVkIGZvciBhdCBHUkVFTiBNQVRSSVggU09MVVRJT04gU0ROLiBCSEQuIGhhcyBub3cgY2xvc2VkIG9uIEpvYnN0cmVldC4gV2hpbGUgdGhpcyBtZWFucyBuZXcgY2FuZGlkYXRlcyBjYW5ub3QgYXBwbHkgZm9yIHRoaXMgam9iLCByZXN0IGFzc3VyZWQgdGhlIGVtcGxveWVyIGhhcyB5b3VyIGFwcGxpY2F0aW9uIGFuZCB5b3UgbWF5IHN0aWxsIGhlYXIgYmFjayBmcm9tIHRoZW0uClRvIGhlbHAgd2l0aCB5b3VyIGpvYiBzZWFyY2ggZXhwbG9yZSBtb3JlIGluZm9ybWF0aW9uIGJlbG93LiBLZWVwIHRyYWNrIG9mIGFsbCB5b3VyIGFwcGxpZWQgam9icyBvbiB5b3VyIGFjdGl2aXR5IHBhZ2UuCg==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Sm9iCg==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "am9i" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Z2l2ZSBtZSBtb25leSBvciBpIHdpbGwgbG9jayB1" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogSW1tZWRpYXRlIEFjdGlvbiBSZXF1aXJlZCEKCkRlYXIgQ3VzdG9tZXIsCgpZb3VyIGFjY291bnQgaGFzIGJlZW4gY29tcHJvbWlzZWQuIFBsZWFzZSB2ZXJpZnkgeW91ciBpZGVudGl0eSBieSBjbGlja2luZyB0aGUgbGluayBiZWxvdzoKCltWZXJpZnkgSWRlbnRpdHldKGh0dHA6Ly9waGlzaGluZ3NpdGUuY29tL3ZlcmlmeSkKCklmIHlvdSBkbyBub3QgcmVzcG9uZCB3aXRoaW4gNDggaG91cnMsIHlvdXIgYWNjb3VudCB3aWxsIGJlIGxvY2tlZC4KClJlZ2FyZHMsClN1cHBvcnQgVGVhbQo=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogSW1tZWRpYXRlIEFjdGlvbiBSZXF1aXJlZCEKCkRlYXIgQ3VzdG9tZXIsCgpZb3VyIGFjY291bnQgaGFzIGJlZW4gY29tcHJvbWlzZWQuIFBsZWFzZSB2ZXJpZnkgeW91ciBpZGVudGl0eSBieSBjbGlja2luZyB0aGUgbGluayBiZWxvdzoKCltWZXJpZnkgSWRlbnRpdHldKGh0dHA6Ly9waGlzaGluZ3NpdGUuY29tL3ZlcmlmeSkKCklmIHlvdSBkbyBub3QgcmVzcG9uZCB3aXRoaW4gNDggaG91cnMsIHlvdXIgYWNjb3VudCB3aWxsIGJlIGxvY2tlZC4KClJlZ2FyZHMsClN1cHBvcnQgVGVhbQo=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogSW1tZWRpYXRlIEFjdGlvbiBSZXF1aXJlZCEKCkRlYXIgQ3VzdG9tZXIsCgpZb3VyIGFjY291bnQgaGFzIGJlZW4gY29tcHJvbWlzZWQuIFBsZWFzZSB2ZXJpZnkgeW91ciBpZGVudGl0eSBieSBjbGlja2luZyB0aGUgbGluayBiZWxvdzoKCltWZXJpZnkgSWRlbnRpdHldKGh0dHA6Ly9waGlzaGluZ3NpdGUuY29tL3ZlcmlmeSkKCklmIHlvdSBkbyBub3QgcmVzcG9uZCB3aXRoaW4gNDggaG91cnMsIHlvdXIgYWNjb3VudCB3aWxsIGJlIGxvY2tlZC4KClJlZ2FyZHMsClN1cHBvcnQgVGVhbQo=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciB1c2VyLAoKWW91IGp1c3Qgd29uIDEwMDAk" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogV2VsY29tZSB0byBTY2FtR3VhcmQhCgpIaSBbVXNlcl0sCgpXZWxjb21lIHRvIFNjYW1HdWFyZCEgV2UncmUgZXhjaXRlZCB0byBoYXZlIHlvdSBvbiBib2FyZC4KCkhlcmUgYXJlIGEgZmV3IHRoaW5ncyB5b3UgY2FuIGRvIHRvIGdldCBzdGFydGVkOgoxLiBFeHBsb3JlIG91ciBbU2NhbSBDYWxsIEFuYWx5emVyXShodHRwOi8vc2NhbWd1YXJkLmNvbS9zY2FtQ2FsbEFuYWx5emVyKQoyLiBDaGVjayBvdXQgb3VyIFtFZHVjYXRpb25hbCBSZXNvdXJjZXNdKGh0dHA6Ly9zY2FtZ3VhcmQuY29tL2VkdWNhdGlvbmFsUmVzb3VyY2VzKQozLiBKb2luIG91ciBjb21tdW5pdHkgYW5kIHNoYXJlIHlvdXIgc3Rvcnkgb24gdGhlIFtGb3J1bV0oaHR0cDovL3NjYW1ndWFyZC5jb20vZm9ydW0pCgpJZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zLCBmZWVsIGZyZWUgdG8gcmVwbHkgdG8gdGhpcyBlbWFpbCBvciB2aXNpdCBvdXIgW3N1cHBvcnQgcGFnZV0oaHR0cDovL3NjYW1ndWFyZC5jb20vc3VwcG9ydCkuCgpCZXN0IHJlZ2FyZHMsClRoZSBTY2FtR3VhcmQgVGVhbQo=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "CkpvYnN0cmVldCBBcHBsaWNhdGlvbnMgPG5vcmVwbHlAam9ic3RyZWV0LmNvbT4KRnJpLCBKdWwgNSwgNzoxMuKAr1BNICg2IGhvdXJzIGFnbykKdG8gbWUKCgpMb2dvCuKAigpIaSBTeWVkIFRhbWVlbSwKV2Ugd2FudGVkIHRvIGxldCB5b3Uga25vdyB0aGF0IHRoZSBJbnRlcm5zaGlwIGZvciBJVCAoV2ViIERlc2lnbiBQcm9ncmFtbWluZyBNYXJrZXRpbmcpIGpvYiB5b3UgYXBwbGllZCBmb3IgYXQgR1JFRU4gTUFUUklYIFNPTFVUSU9OIFNETi4gQkhELiBoYXMgbm93IGNsb3NlZCBvbiBKb2JzdHJlZXQuIFdoaWxlIHRoaXMgbWVhbnMgbmV3IGNhbmRpZGF0ZXMgY2Fubm90IGFwcGx5IGZvciB0aGlzIGpvYiwgcmVzdCBhc3N1cmVkIHRoZSBlbXBsb3llciBoYXMgeW91ciBhcHBsaWNhdGlvbiBhbmQgeW91IG1heSBzdGlsbCBoZWFyIGJhY2sgZnJvbSB0aGVtLgpUbyBoZWxwIHdpdGggeW91ciBqb2Igc2VhcmNoIGV4cGxvcmUgbW9yZSBpbmZvcm1hdGlvbiBiZWxvdy4gS2VlcCB0cmFjayBvZiBhbGwgeW91ciBhcHBsaWVkIGpvYnMgb24geW91ciBhY3Rpdml0eSBwYWdlLg==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogTWVldGluZyBSZW1pbmRlcgoKSGkgVGVhbSwKCkp1c3QgYSByZW1pbmRlciBhYm91dCB0aGUgbWVldGluZyBzY2hlZHVsZWQgZm9yIHRvbW9ycm93IGF0IDEwOjAwIEFNLiBQbGVhc2UgbWFrZSBzdXJlIHRvIHJldmlldyB0aGUgYXR0YWNoZWQgYWdlbmRhIGFuZCBjb21lIHByZXBhcmVkIHdpdGggYW55IHF1ZXN0aW9ucyBvciB1cGRhdGVzLgoKQmVzdCByZWdhcmRzLApKb2huIERvZQo=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogTWVldGluZyBSZW1pbmRlcgoKSGkgVGVhbSwKCkp1c3QgYSByZW1pbmRlciBhYm91dCB0aGUgbWVldGluZyBzY2hlZHVsZWQgZm9yIHRvbW9ycm93IGF0IDEwOjAwIEFNLiBQbGVhc2UgbWFrZSBzdXJlIHRvIHJldmlldyB0aGUgYXR0YWNoZWQgYWdlbmRhIGFuZCBjb21lIHByZXBhcmVkIHdpdGggYW55IHF1ZXN0aW9ucyBvciB1cGRhdGVzLgoKQmVzdCByZWdhcmRzLApKb2huIERvZQo=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogTWVldGluZyBSZW1pbmRlcgoKSGkgVGVhbSwKCkp1c3QgYSByZW1pbmRlciBhYm91dCB0aGUgbWVldGluZyBzY2hlZHVsZWQgZm9yIHRvbW9ycm93IGF0IDEwOjAwIEFNLiBQbGVhc2UgbWFrZSBzdXJlIHRvIHJldmlldyB0aGUgYXR0YWNoZWQgYWdlbmRhIGFuZCBjb21lIHByZXBhcmVkIHdpdGggYW55IHF1ZXN0aW9ucyBvciB1cGRhdGVzLgoKQmVzdCByZWdhcmRzLApKb2huIERvZQo=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "eW91IGhhdmUgd29uIDEwMDAkIGNsaWNrIGhlcmUgdG8gY2xhaW0K" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: python predict_model.py ^"2^" ^"SEND Money^" ^"Live^" ^"Yes^" ^"Yes^" 2^>^&1
+Parameters: {"callDuration":"2","commonWords":"SEND Money","callType":"Live","personalInfoRequest":"Yes","emotionTactics":"Yes"}
+Output: This call is most likely not a fraud.
+
+Command: python predict_model.py ^"1^" ^"you have won a prize^" ^"Live^" ^"Yes^" ^"Yes^" 2^>^&1
+Parameters: {"callDuration":"1","commonWords":"you have won a prize","callType":"Live","personalInfoRequest":"Yes","emotionTactics":"Yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py ^"1^" ^"you have won a prize^" ^"Live^" ^"Yes^" ^"Yes^" 2^>^&1
+Parameters: {"callDuration":"1","commonWords":"you have won a prize","callType":"Live","personalInfoRequest":"Yes","emotionTactics":"Yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py ^"3^" ^"I need money^" ^"Live^" ^"Yes^" ^"Yes^" 2^>^&1
+Parameters: {"callDuration":"3","commonWords":"I need money","callType":"Live","personalInfoRequest":"Yes","emotionTactics":"Yes"}
+Output: This call is most likely not a fraud.
+
+Command: python predict_model.py ^"2^" ^"we need ur account details to verify^" ^"Live^" ^"Yes^" ^"Yes^" 2^>^&1
+Parameters: {"callDuration":"2","commonWords":"we need ur account details to verify","callType":"Live","personalInfoRequest":"Yes","emotionTactics":"Yes"}
+Output: This call is most likely not a fraud.
+
+Command: python predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python predict_model.py "2" "I need help" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"I need help","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: python3 predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+Command: python3 predict_model.py "2" "hi" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"hi","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+Command: python3 predict_model.py "2" "Send Money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"Send Money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Manage App Execution Aliases.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "SEND ME MONEY " "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"SEND ME MONEY!","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "send money" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"send money","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "hI" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"hI","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "c3Nzcw==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "VXJnZW50OiBBY3Rpb24gUmVxdWlyZWQgdG8gVXBkYXRlIFlvdXIgQWNjb3VudCBJbmZvcm1hdGlvbgoKRGVhciBWYWx1ZWQgQ3VzdG9tZXIsCgpXZSByZWdyZXQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdXIgYWNjb3VudCBoYXMgYmVlbiB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZHVlIHRvIHN1c3BpY2lvdXMgYWN0aXZpdHkuIFRvIGVuc3VyZSB0aGUgc2FmZXR5IG9mIHlvdXIgYWNjb3VudCwgd2UgcmVxdWlyZSB5b3UgdG8gdmVyaWZ5IHlvdXIgaW5mb3JtYXRpb24gaW1tZWRpYXRlbHkuCgpQbGVhc2UgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3cgdG8gdXBkYXRlIHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbjoKW1VwZGF0ZSBBY2NvdW50IEluZm9ybWF0aW9uXShodHRwOi8vcGhpc2hpbmdzaXRlLmV4YW1wbGUuY29tKQoKRmFpbHVyZSB0byB2ZXJpZnkgeW91ciBpbmZvcm1hdGlvbiB3aXRoaW4gMjQgaG91cnMgd2lsbCByZXN1bHQgaW4gcGVybWFuZW50IHN1c3BlbnNpb24gb2YgeW91ciBhY2NvdW50LiBXZSBhcG9sb2dpemUgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5IGNhdXNlIGFuZCBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KCklmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgbmVlZCBmdXJ0aGVyIGFzc2lzdGFuY2UsIHBsZWFzZSBjb250YWN0IG91ciBjdXN0b21lciBzdXBwb3J0IHRlYW0uCgpUaGFuayB5b3UgZm9yIHlvdXIgY29vcGVyYXRpb24uCgpTaW5jZXJlbHksClRoZSBTZWN1cml0eSBUZWFtCk1heWJhbmsKCk5vdGU6IFRoaXMgaXMgYW4gYXV0b21hdGVkIGVtYWlsLiBQbGVhc2UgZG8gbm90IHJlcGx5IGRpcmVjdGx5IHRvIHRoaXMgbWVzc2FnZQ==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "VXJnZW50OiBBY3Rpb24gUmVxdWlyZWQgdG8gVXBkYXRlIFlvdXIgQWNjb3VudCBJbmZvcm1hdGlvbgoKRGVhciBWYWx1ZWQgQ3VzdG9tZXIsCgpXZSByZWdyZXQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdXIgYWNjb3VudCBoYXMgYmVlbiB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZHVlIHRvIHN1c3BpY2lvdXMgYWN0aXZpdHkuIFRvIGVuc3VyZSB0aGUgc2FmZXR5IG9mIHlvdXIgYWNjb3VudCwgd2UgcmVxdWlyZSB5b3UgdG8gdmVyaWZ5IHlvdXIgaW5mb3JtYXRpb24gaW1tZWRpYXRlbHkuCgpQbGVhc2UgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3cgdG8gdXBkYXRlIHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbjoKW1VwZGF0ZSBBY2NvdW50IEluZm9ybWF0aW9uXShodHRwOi8vcGhpc2hpbmdzaXRlLmV4YW1wbGUuY29tKQoKRmFpbHVyZSB0byB2ZXJpZnkgeW91ciBpbmZvcm1hdGlvbiB3aXRoaW4gMjQgaG91cnMgd2lsbCByZXN1bHQgaW4gcGVybWFuZW50IHN1c3BlbnNpb24gb2YgeW91ciBhY2NvdW50LiBXZSBhcG9sb2dpemUgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5IGNhdXNlIGFuZCBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KCklmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgbmVlZCBmdXJ0aGVyIGFzc2lzdGFuY2UsIHBsZWFzZSBjb250YWN0IG91ciBjdXN0b21lciBzdXBwb3J0IHRlYW0uCgpUaGFuayB5b3UgZm9yIHlvdXIgY29vcGVyYXRpb24uCgpTaW5jZXJlbHksClRoZSBTZWN1cml0eSBUZWFtCk1heWJhbmsKCk5vdGU6IFRoaXMgaXMgYW4gYXV0b21hdGVkIGVtYWlsLiBQbGVhc2UgZG8gbm90IHJlcGx5IGRpcmVjdGx5IHRvIHRoaXMgbWVzc2FnZQ==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aG93IGFyZSB5b3U=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGVsbG8=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLAoKV2UgaGF2ZSBkZXRlY3RlZCBzdXNwaWNpb3VzIGFjdGl2aXR5IG9uIHlvdXIgYWNjb3VudC4gVG8gZW5zdXJlIHlvdXIgYWNjb3VudCBzZWN1cml0eSwgcGxlYXNlIHZlcmlmeSB5b3VyIGFjY291bnQgaW5mb3JtYXRpb24gaW1tZWRpYXRlbHkgYnkgY2xpY2tpbmcgb24gdGhlIGxpbmsgYmVsb3c6CgpbVmVyaWZ5IEFjY291bnRdKGh0dHA6Ly9mYWtldmVyaWZpY2F0aW9ubGluay5jb20pCgpGYWlsdXJlIHRvIHZlcmlmeSB5b3VyIGFjY291bnQgd2l0aGluIDI0IGhvdXJzIHdpbGwgcmVzdWx0IGluIGEgdGVtcG9yYXJ5IHN1c3BlbnNpb24uCgpUaGFuayB5b3UsClNlY3VyaXR5IFRlYW0K" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgSm9obiwKCkkgaG9wZSB5b3UgYXJlIGRvaW5nIHdlbGwuIEkgd2FudGVkIHRvIHJlbWluZCB5b3UgYWJvdXQgb3VyIG1lZXRpbmcgc2NoZWR1bGVkIGZvciB0b21vcnJvdyBhdCAxMCBBTS4gUGxlYXNlIGxldCBtZSBrbm93IGlmIHlvdSBuZWVkIHRvIHJlc2NoZWR1bGUuCgpCZXN0IHJlZ2FyZHMsCkphbmUK" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgU3llZCBUYW1lZW0sCldlIHdhbnRlZCB0byBsZXQgeW91IGtub3cgdGhhdCB0aGUgSW50ZXJuc2hpcCBmb3IgSVQgKFdlYiBEZXNpZ24gUHJvZ3JhbW1pbmcgTWFya2V0aW5nKSBqb2IgeW91IGFwcGxpZWQgZm9yIGF0IEdSRUVOIE1BVFJJWCBTT0xVVElPTiBTRE4uIEJIRC4gaGFzIG5vdyBjbG9zZWQgb24gSm9ic3RyZWV0LiBXaGlsZSB0aGlzIG1lYW5zIG5ldyBjYW5kaWRhdGVzIGNhbm5vdCBhcHBseSBmb3IgdGhpcyBqb2IsIHJlc3QgYXNzdXJlZCB0aGUgZW1wbG95ZXIgaGFzIHlvdXIgYXBwbGljYXRpb24gYW5kIHlvdSBtYXkgc3RpbGwgaGVhciBiYWNrIGZyb20gdGhlbS4KVG8gaGVscCB3aXRoIHlvdXIgam9iIHNlYXJjaCBleHBsb3JlIG1vcmUgaW5mb3JtYXRpb24gYmVsb3cuIEtlZXAgdHJhY2sgb2YgYWxsIHlvdXIgYXBwbGllZCBqb2JzIG9uIHlvdXIgYWN0aXZpdHkgcGFnZS4=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" " Hi John, I hope you are doing well. I wanted to remind you about our meeting scheduled for tomorrow at 10 AM. Please let me know if you need to reschedule. Best regards, Jane " 2>&1
+Output: not spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "how are you" 2>&1
+Output: spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Subject: Urgent: Verify Your Account Now 
+
+Dear User,
+
+We noticed unusual activity on your account. To protect your information, we need you to verify your account immediately.
+
+Please click the link below to verify your account:
+[Suspicious Link]
+
+Failure to do so may result in suspension of your account.
+
+Best regards,
+Account Security Team
+" 2>&1
+Output: spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Subject: Congratulations  You've Won a Prize 
+
+Hello,
+
+You have been selected as the lucky winner of our grand prize giveaway  To claim your prize, simply reply to this email with your full name, address, and phone number.
+
+Don't miss this amazing opportunity 
+
+Regards,
+Prize Distribution Team
+" 2>&1
+Output: not spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Subject: Limited Time Offer: Get 50  Off on All Products 
+
+Hi,
+
+We're excited to announce a limited-time offer exclusively for our valued customers. Get 50  off on all our products. Just click the link below to grab the deal:
+[Suspicious Link]
+
+Hurry, the offer ends soon 
+
+Best,
+Marketing Team
+" 2>&1
+Output: spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Subject: Project Update
+
+Dear Team,
+
+I wanted to give you a quick update on our project. We have completed the initial phase and are now moving on to the next steps. I'll be scheduling a meeting soon to discuss the details.
+
+Thank you for your hard work 
+
+Best,
+Sarah
+" 2>&1
+Output: not spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Subject: Invitation to Webinar
+
+Hello,
+
+We are pleased to invite you to our upcoming webinar on  The Future of Technology.  The event will take place next Tuesday at 2 PM. Please register using the link below:
+[Legitimate Link]
+
+We look forward to your participation.
+
+Regards,
+Webinar Team
+" 2>&1
+Output: spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Subject: Invitation to Webinar
+
+Hello,
+
+We are pleased to invite you to our upcoming webinar on  The Future of Technology.  The event will take place next Tuesday at 2 PM. Please register using the link below:
+
+We look forward to your participation.
+
+Regards,
+Webinar Team
+" 2>&1
+Output: spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Subject: Invitation to Webinar
+
+Hello,
+
+We are pleased to invite you to our upcoming webinar on  The Future of Technology.  The event will take place next Tuesday at 2 PM. Please register using the link below:
+[Legitimate Link]
+
+We look forward to your participation.
+
+Regards,
+Webinar Team
+
+" 2>&1
+Output: spam
+
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogSW52aXRhdGlvbiB0byBXZWJpbmFyCgpIZWxsbywKCldlIGFyZSBwbGVhc2VkIHRvIGludml0ZSB5b3UgdG8gb3VyIHVwY29taW5nIHdlYmluYXIgb24gIlRoZSBGdXR1cmUgb2YgVGVjaG5vbG9neS4iIFRoZSBldmVudCB3aWxsIHRha2UgcGxhY2UgbmV4dCBUdWVzZGF5IGF0IDIgUE0uIFBsZWFzZSByZWdpc3RlciB1c2luZyB0aGUgbGluayBiZWxvdzoKW0xlZ2l0aW1hdGUgTGlua10KCldlIGxvb2sgZm9yd2FyZCB0byB5b3VyIHBhcnRpY2lwYXRpb24uCgpSZWdhcmRzLApXZWJpbmFyIFRlYW0K" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"This email is most likely spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+JSON Response: {"error":"Email text not provided."}
+JSON Response: {"error":"Email text not provided."}
+Raw POST data: {"emailText":"Hello,\n\nCongratulations! You've been selected to win a $1,000 gift card. All you need to do is click the link below and provide some basic information.\n\n[Click here to claim your prize](http://spam.example.com)\n\nBest regards,\nSpam Team\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGVsbG8sCgpDb25ncmF0dWxhdGlvbnMhIFlvdSd2ZSBiZWVuIHNlbGVjdGVkIHRvIHdpbiBhICQxLDAwMCBnaWZ0IGNhcmQuIEFsbCB5b3UgbmVlZCB0byBkbyBpcyBjbGljayB0aGUgbGluayBiZWxvdyBhbmQgcHJvdmlkZSBzb21lIGJhc2ljIGluZm9ybWF0aW9uLgoKW0NsaWNrIGhlcmUgdG8gY2xhaW0geW91ciBwcml6ZV0oaHR0cDovL3NwYW0uZXhhbXBsZS5jb20pCgpCZXN0IHJlZ2FyZHMsClNwYW0gVGVhbQo=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hi John,\n\nI hope you're doing well. I'm writing to follow up on our meeting last week regarding the new project. Please find attached the minutes of the meeting and the project proposal for your review.\n\nLet me know if you have any questions or need further information.\n\nBest regards,\nJane\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgSm9obiwKCkkgaG9wZSB5b3UncmUgZG9pbmcgd2VsbC4gSSdtIHdyaXRpbmcgdG8gZm9sbG93IHVwIG9uIG91ciBtZWV0aW5nIGxhc3Qgd2VlayByZWdhcmRpbmcgdGhlIG5ldyBwcm9qZWN0LiBQbGVhc2UgZmluZCBhdHRhY2hlZCB0aGUgbWludXRlcyBvZiB0aGUgbWVldGluZyBhbmQgdGhlIHByb2plY3QgcHJvcG9zYWwgZm9yIHlvdXIgcmV2aWV3LgoKTGV0IG1lIGtub3cgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBuZWVkIGZ1cnRoZXIgaW5mb3JtYXRpb24uCgpCZXN0IHJlZ2FyZHMsCkphbmUK" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Hi John,\n\nI hope you're doing well. I'm writing to follow up on our meeting last week regarding the new project. Please find attached the minutes of the meeting and the project proposal for your review.\n\nLet me know if you have any questions or need further information.\n\nBest regards,\nJane\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgSm9obiwKCkkgaG9wZSB5b3UncmUgZG9pbmcgd2VsbC4gSSdtIHdyaXRpbmcgdG8gZm9sbG93IHVwIG9uIG91ciBtZWV0aW5nIGxhc3Qgd2VlayByZWdhcmRpbmcgdGhlIG5ldyBwcm9qZWN0LiBQbGVhc2UgZmluZCBhdHRhY2hlZCB0aGUgbWludXRlcyBvZiB0aGUgbWVldGluZyBhbmQgdGhlIHByb2plY3QgcHJvcG9zYWwgZm9yIHlvdXIgcmV2aWV3LgoKTGV0IG1lIGtub3cgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBuZWVkIGZ1cnRoZXIgaW5mb3JtYXRpb24uCgpCZXN0IHJlZ2FyZHMsCkphbmUK" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"how are you nice day"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aG93IGFyZSB5b3UgbmljZSBkYXk=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Subject: Meeting Confirmation\n\nHi John,\n\nJust a reminder about our meeting scheduled for tomorrow at 3 PM in Conference Room B. Please let me know if you need to reschedule.\n\nBest regards,\nJane Smith\nOffice Manager\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogTWVldGluZyBDb25maXJtYXRpb24KCkhpIEpvaG4sCgpKdXN0IGEgcmVtaW5kZXIgYWJvdXQgb3VyIG1lZXRpbmcgc2NoZWR1bGVkIGZvciB0b21vcnJvdyBhdCAzIFBNIGluIENvbmZlcmVuY2UgUm9vbSBCLiBQbGVhc2UgbGV0IG1lIGtub3cgaWYgeW91IG5lZWQgdG8gcmVzY2hlZHVsZS4KCkJlc3QgcmVnYXJkcywKSmFuZSBTbWl0aApPZmZpY2UgTWFuYWdlcgo=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Subject: Monthly Report Submission\n\nDear Team,\n\nPlease find attached the monthly report for June. Let me know if there are any questions or if further clarifications are needed.\n\nRegards,\nMichael Johnson\nData Analyst\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogTW9udGhseSBSZXBvcnQgU3VibWlzc2lvbgoKRGVhciBUZWFtLAoKUGxlYXNlIGZpbmQgYXR0YWNoZWQgdGhlIG1vbnRobHkgcmVwb3J0IGZvciBKdW5lLiBMZXQgbWUga25vdyBpZiB0aGVyZSBhcmUgYW55IHF1ZXN0aW9ucyBvciBpZiBmdXJ0aGVyIGNsYXJpZmljYXRpb25zIGFyZSBuZWVkZWQuCgpSZWdhcmRzLApNaWNoYWVsIEpvaG5zb24KRGF0YSBBbmFseXN0Cg==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Subject: Project Update\n\nHello Team,\n\nI wanted to provide an update on the current status of the project. We are on track to meet our deadlines, and all tasks are progressing smoothly. If anyone has any concerns, please raise them in our next team meeting.\n\nThank you,\nEmily Brown\nProject Manager\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogUHJvamVjdCBVcGRhdGUKCkhlbGxvIFRlYW0sCgpJIHdhbnRlZCB0byBwcm92aWRlIGFuIHVwZGF0ZSBvbiB0aGUgY3VycmVudCBzdGF0dXMgb2YgdGhlIHByb2plY3QuIFdlIGFyZSBvbiB0cmFjayB0byBtZWV0IG91ciBkZWFkbGluZXMsIGFuZCBhbGwgdGFza3MgYXJlIHByb2dyZXNzaW5nIHNtb290aGx5LiBJZiBhbnlvbmUgaGFzIGFueSBjb25jZXJucywgcGxlYXNlIHJhaXNlIHRoZW0gaW4gb3VyIG5leHQgdGVhbSBtZWV0aW5nLgoKVGhhbmsgeW91LApFbWlseSBCcm93bgpQcm9qZWN0IE1hbmFnZXIK" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Subject: Client Feedback\n\nDear Emily,\n\nThank you for your excellent support. Our team is very pleased with the services provided. We look forward to continuing our partnership.\n\nBest,\nSarah Lee\nClient Relations Manager\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogQ2xpZW50IEZlZWRiYWNrCgpEZWFyIEVtaWx5LAoKVGhhbmsgeW91IGZvciB5b3VyIGV4Y2VsbGVudCBzdXBwb3J0LiBPdXIgdGVhbSBpcyB2ZXJ5IHBsZWFzZWQgd2l0aCB0aGUgc2VydmljZXMgcHJvdmlkZWQuIFdlIGxvb2sgZm9yd2FyZCB0byBjb250aW51aW5nIG91ciBwYXJ0bmVyc2hpcC4KCkJlc3QsClNhcmFoIExlZQpDbGllbnQgUmVsYXRpb25zIE1hbmFnZXIK" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hi John,\n\nI hope you're doing well. I'm writing to follow up on our meeting last week regarding the new project. Please find attached the minutes of the meeting and the project proposal for your review.\n\nLet me know if you have any questions or need further information.\n\nBest regards,\nJane\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgSm9obiwKCkkgaG9wZSB5b3UncmUgZG9pbmcgd2VsbC4gSSdtIHdyaXRpbmcgdG8gZm9sbG93IHVwIG9uIG91ciBtZWV0aW5nIGxhc3Qgd2VlayByZWdhcmRpbmcgdGhlIG5ldyBwcm9qZWN0LiBQbGVhc2UgZmluZCBhdHRhY2hlZCB0aGUgbWludXRlcyBvZiB0aGUgbWVldGluZyBhbmQgdGhlIHByb2plY3QgcHJvcG9zYWwgZm9yIHlvdXIgcmV2aWV3LgoKTGV0IG1lIGtub3cgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBuZWVkIGZ1cnRoZXIgaW5mb3JtYXRpb24uCgpCZXN0IHJlZ2FyZHMsCkphbmUK" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "" 2>&1
+Raw Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Subject: Meeting Confirmation\n\nHi John,\n\nJust a reminder about our meeting scheduled for tomorrow at 3 PM in Conference Room B. Please let me know if you need to reschedule.\n\nBest regards,\nJane Smith\nOffice Manager\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogTWVldGluZyBDb25maXJtYXRpb24KCkhpIEpvaG4sCgpKdXN0IGEgcmVtaW5kZXIgYWJvdXQgb3VyIG1lZXRpbmcgc2NoZWR1bGVkIGZvciB0b21vcnJvdyBhdCAzIFBNIGluIENvbmZlcmVuY2UgUm9vbSBCLiBQbGVhc2UgbGV0IG1lIGtub3cgaWYgeW91IG5lZWQgdG8gcmVzY2hlZHVsZS4KCkJlc3QgcmVnYXJkcywKSmFuZSBTbWl0aApPZmZpY2UgTWFuYWdlcgo=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"my name is tameem"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "bXkgbmFtZSBpcyB0YW1lZW0=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Subject: Meeting Confirmation\n\nHi John,\n\nJust a reminder about our meeting scheduled for tomorrow at 3 PM in Conference Room B. Please let me know if you need to reschedule.\n\nBest regards,\nJane Smith\nOffice Manager"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "U3ViamVjdDogTWVldGluZyBDb25maXJtYXRpb24KCkhpIEpvaG4sCgpKdXN0IGEgcmVtaW5kZXIgYWJvdXQgb3VyIG1lZXRpbmcgc2NoZWR1bGVkIGZvciB0b21vcnJvdyBhdCAzIFBNIGluIENvbmZlcmVuY2UgUm9vbSBCLiBQbGVhc2UgbGV0IG1lIGtub3cgaWYgeW91IG5lZWQgdG8gcmVzY2hlZHVsZS4KCkJlc3QgcmVnYXJkcywKSmFuZSBTbWl0aApPZmZpY2UgTWFuYWdlcg==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Email text:  Subject: Meeting Confirmation\n\nHi John,\n\nJust a reminder about our meeting scheduled for tomorrow at 3 PM in Conference Room B. Please let me know if you need to reschedule.\n\nBest regards,\nJane Smith\nOffice Manager"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RW1haWwgdGV4dDogIFN1YmplY3Q6IE1lZXRpbmcgQ29uZmlybWF0aW9uCgpIaSBKb2huLAoKSnVzdCBhIHJlbWluZGVyIGFib3V0IG91ciBtZWV0aW5nIHNjaGVkdWxlZCBmb3IgdG9tb3Jyb3cgYXQgMyBQTSBpbiBDb25mZXJlbmNlIFJvb20gQi4gUGxlYXNlIGxldCBtZSBrbm93IGlmIHlvdSBuZWVkIHRvIHJlc2NoZWR1bGUuCgpCZXN0IHJlZ2FyZHMsCkphbmUgU21pdGgKT2ZmaWNlIE1hbmFnZXI=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"gggggg"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "Z2dnZ2dn" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hi, I'm Erika, the hiring manager for TikTok Saudi Arabia. I saw your job Posting on linkedin. This is the regional marketing center for Tiktok in Saudi Arabia. You need to spend some time every day assisting with store promotions. You don't have to work full time, just on your phone. You can earn $50- $500 a day. If you want to participate, you can add the WhatsApp number of our marketing tutor Ann. She will provide you with detailed job information and vocational training.\nPlease contact her via WhatsApp"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGksIEknbSBFcmlrYSwgdGhlIGhpcmluZyBtYW5hZ2VyIGZvciBUaWtUb2sgU2F1ZGkgQXJhYmlhLiBJIHNhdyB5b3VyIGpvYiBQb3N0aW5nIG9uIGxpbmtlZGluLiBUaGlzIGlzIHRoZSByZWdpb25hbCBtYXJrZXRpbmcgY2VudGVyIGZvciBUaWt0b2sgaW4gU2F1ZGkgQXJhYmlhLiBZb3UgbmVlZCB0byBzcGVuZCBzb21lIHRpbWUgZXZlcnkgZGF5IGFzc2lzdGluZyB3aXRoIHN0b3JlIHByb21vdGlvbnMuIFlvdSBkb24ndCBoYXZlIHRvIHdvcmsgZnVsbCB0aW1lLCBqdXN0IG9uIHlvdXIgcGhvbmUuIFlvdSBjYW4gZWFybiAkNTAtICQ1MDAgYSBkYXkuIElmIHlvdSB3YW50IHRvIHBhcnRpY2lwYXRlLCB5b3UgY2FuIGFkZCB0aGUgV2hhdHNBcHAgbnVtYmVyIG9mIG91ciBtYXJrZXRpbmcgdHV0b3IgQW5uLiBTaGUgd2lsbCBwcm92aWRlIHlvdSB3aXRoIGRldGFpbGVkIGpvYiBpbmZvcm1hdGlvbiBhbmQgdm9jYXRpb25hbCB0cmFpbmluZy4KUGxlYXNlIGNvbnRhY3QgaGVyIHZpYSBXaGF0c0FwcA==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Raw POST data: {"emailText":"fghggggf"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZmdoZ2dnZ2Y=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"hjdjdj"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aGpkamRq" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "how are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"2","commonWords":"how are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "6" "hi" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"6","commonWords":"hi","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Raw POST data: {"emailText":"Dear Customer,\n\nCongratulations! You have been selected to receive a $1,000 Walmart Gift Card. To claim your prize, simply click on the link below and provide your personal information.\n\n[Claim Your Gift Card Now](http://fake-link.com)\n\nHurry, this offer is valid for a limited time only!\n\nBest regards,\nWalmart Prizes Team\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBDdXN0b21lciwKCkNvbmdyYXR1bGF0aW9ucyEgWW91IGhhdmUgYmVlbiBzZWxlY3RlZCB0byByZWNlaXZlIGEgJDEsMDAwIFdhbG1hcnQgR2lmdCBDYXJkLiBUbyBjbGFpbSB5b3VyIHByaXplLCBzaW1wbHkgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3cgYW5kIHByb3ZpZGUgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbi4KCltDbGFpbSBZb3VyIEdpZnQgQ2FyZCBOb3ddKGh0dHA6Ly9mYWtlLWxpbmsuY29tKQoKSHVycnksIHRoaXMgb2ZmZXIgaXMgdmFsaWQgZm9yIGEgbGltaXRlZCB0aW1lIG9ubHkhCgpCZXN0IHJlZ2FyZHMsCldhbG1hcnQgUHJpemVzIFRlYW0K" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Dear [Your Name],\n\nThank you for registering with ScamGuard. We are excited to have you on board and look forward to helping you stay safe from scams.\n\nTo get started, please verify your email address by clicking on the link below:\n\n[Verify Your Email](https://www.scamguard.com/verify?token=exampletoken)\n\nIf you did not create an account with ScamGuard, please disregard this email.\n\nBest regards,\nScamGuard Support Team\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBbWW91ciBOYW1lXSwKClRoYW5rIHlvdSBmb3IgcmVnaXN0ZXJpbmcgd2l0aCBTY2FtR3VhcmQuIFdlIGFyZSBleGNpdGVkIHRvIGhhdmUgeW91IG9uIGJvYXJkIGFuZCBsb29rIGZvcndhcmQgdG8gaGVscGluZyB5b3Ugc3RheSBzYWZlIGZyb20gc2NhbXMuCgpUbyBnZXQgc3RhcnRlZCwgcGxlYXNlIHZlcmlmeSB5b3VyIGVtYWlsIGFkZHJlc3MgYnkgY2xpY2tpbmcgb24gdGhlIGxpbmsgYmVsb3c6CgpbVmVyaWZ5IFlvdXIgRW1haWxdKGh0dHBzOi8vd3d3LnNjYW1ndWFyZC5jb20vdmVyaWZ5P3Rva2VuPWV4YW1wbGV0b2tlbikKCklmIHlvdSBkaWQgbm90IGNyZWF0ZSBhbiBhY2NvdW50IHdpdGggU2NhbUd1YXJkLCBwbGVhc2UgZGlzcmVnYXJkIHRoaXMgZW1haWwuCgpCZXN0IHJlZ2FyZHMsClNjYW1HdWFyZCBTdXBwb3J0IFRlYW0K" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hello [Your Name],\n\nThank you for shopping with us. We’ve received your order and will send a confirmation when it ships.\n\nOrder Number: 123-4567890-1234567\nOrder Details:\n- Item: Wireless Bluetooth Headphones\n- Quantity: 1\n- Price: $49.99\n\nShipping Address:\n[Your Address]\n\nIf you need to make any changes to your order, please visit the Your Orders section on our website.\n\nThank you for shopping at Amazon.\n\nBest regards,\nAmazon Team\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGVsbG8gW1lvdXIgTmFtZV0sCgpUaGFuayB5b3UgZm9yIHNob3BwaW5nIHdpdGggdXMuIFdl4oCZdmUgcmVjZWl2ZWQgeW91ciBvcmRlciBhbmQgd2lsbCBzZW5kIGEgY29uZmlybWF0aW9uIHdoZW4gaXQgc2hpcHMuCgpPcmRlciBOdW1iZXI6IDEyMy00NTY3ODkwLTEyMzQ1NjcKT3JkZXIgRGV0YWlsczoKLSBJdGVtOiBXaXJlbGVzcyBCbHVldG9vdGggSGVhZHBob25lcwotIFF1YW50aXR5OiAxCi0gUHJpY2U6ICQ0OS45OQoKU2hpcHBpbmcgQWRkcmVzczoKW1lvdXIgQWRkcmVzc10KCklmIHlvdSBuZWVkIHRvIG1ha2UgYW55IGNoYW5nZXMgdG8geW91ciBvcmRlciwgcGxlYXNlIHZpc2l0IHRoZSBZb3VyIE9yZGVycyBzZWN0aW9uIG9uIG91ciB3ZWJzaXRlLgoKVGhhbmsgeW91IGZvciBzaG9wcGluZyBhdCBBbWF6b24uCgpCZXN0IHJlZ2FyZHMsCkFtYXpvbiBUZWFtCg==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hi Team,\n\nThis is a reminder for our project kickoff meeting scheduled for tomorrow.\n\nDate: July 15, 2024\nTime: 10:00 AM\nLocation: Conference Room 2\n\nAgenda:\n1. Introductions\n2. Project overview\n3. Roles and responsibilities\n4. Timeline and milestones\n5. Q&A\n\nPlease make sure to bring any materials or questions you might have.\n\nBest regards,\nJohn Doe\nProject Manager\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgVGVhbSwKClRoaXMgaXMgYSByZW1pbmRlciBmb3Igb3VyIHByb2plY3Qga2lja29mZiBtZWV0aW5nIHNjaGVkdWxlZCBmb3IgdG9tb3Jyb3cuCgpEYXRlOiBKdWx5IDE1LCAyMDI0ClRpbWU6IDEwOjAwIEFNCkxvY2F0aW9uOiBDb25mZXJlbmNlIFJvb20gMgoKQWdlbmRhOgoxLiBJbnRyb2R1Y3Rpb25zCjIuIFByb2plY3Qgb3ZlcnZpZXcKMy4gUm9sZXMgYW5kIHJlc3BvbnNpYmlsaXRpZXMKNC4gVGltZWxpbmUgYW5kIG1pbGVzdG9uZXMKNS4gUSZBCgpQbGVhc2UgbWFrZSBzdXJlIHRvIGJyaW5nIGFueSBtYXRlcmlhbHMgb3IgcXVlc3Rpb25zIHlvdSBtaWdodCBoYXZlLgoKQmVzdCByZWdhcmRzLApKb2huIERvZQpQcm9qZWN0IE1hbmFnZXIK" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Hi [Your Name],\n\nThis is a reminder that your Netflix subscription will be renewed on July 20, 2024.\n\nPlan: Standard\nAmount: $13.99\n\nNo action is required on your part; your subscription will be renewed automatically. If you wish to make any changes to your plan, please visit your account settings.\n\n[Manage Your Subscription](https://www.netflix.com/account)\n\nThank you for being a valued member of Netflix.\n\nBest regards,\nThe Netflix Team\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgW1lvdXIgTmFtZV0sCgpUaGlzIGlzIGEgcmVtaW5kZXIgdGhhdCB5b3VyIE5ldGZsaXggc3Vic2NyaXB0aW9uIHdpbGwgYmUgcmVuZXdlZCBvbiBKdWx5IDIwLCAyMDI0LgoKUGxhbjogU3RhbmRhcmQKQW1vdW50OiAkMTMuOTkKCk5vIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB5b3VyIHBhcnQ7IHlvdXIgc3Vic2NyaXB0aW9uIHdpbGwgYmUgcmVuZXdlZCBhdXRvbWF0aWNhbGx5LiBJZiB5b3Ugd2lzaCB0byBtYWtlIGFueSBjaGFuZ2VzIHRvIHlvdXIgcGxhbiwgcGxlYXNlIHZpc2l0IHlvdXIgYWNjb3VudCBzZXR0aW5ncy4KCltNYW5hZ2UgWW91ciBTdWJzY3JpcHRpb25dKGh0dHBzOi8vd3d3Lm5ldGZsaXguY29tL2FjY291bnQpCgpUaGFuayB5b3UgZm9yIGJlaW5nIGEgdmFsdWVkIG1lbWJlciBvZiBOZXRmbGl4LgoKQmVzdCByZWdhcmRzLApUaGUgTmV0ZmxpeCBUZWFtCg==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Urgent: Action Required to Update Your Account Information\n\nDear Valued Customer,\n\nWe regret to inform you that your account has been temporarily suspended due to suspicious activity. To ensure the safety of your account, we require you to verify your information immediately.\n\nPlease click on the link below to update your account information:\n[Update Account Information](http://phishingsite.example.com)\n\nFailure to verify your information within 24 hours will result in permanent suspension of your account. We apologize for any inconvenience this may cause and appreciate your prompt attention to this matter.\n\nIf you have any questions or need further assistance, please contact our customer support team.\n\nThank you for your cooperation.\n\nSincerely,\nThe Security Team\nMaybank"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "VXJnZW50OiBBY3Rpb24gUmVxdWlyZWQgdG8gVXBkYXRlIFlvdXIgQWNjb3VudCBJbmZvcm1hdGlvbgoKRGVhciBWYWx1ZWQgQ3VzdG9tZXIsCgpXZSByZWdyZXQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdXIgYWNjb3VudCBoYXMgYmVlbiB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZHVlIHRvIHN1c3BpY2lvdXMgYWN0aXZpdHkuIFRvIGVuc3VyZSB0aGUgc2FmZXR5IG9mIHlvdXIgYWNjb3VudCwgd2UgcmVxdWlyZSB5b3UgdG8gdmVyaWZ5IHlvdXIgaW5mb3JtYXRpb24gaW1tZWRpYXRlbHkuCgpQbGVhc2UgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3cgdG8gdXBkYXRlIHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbjoKW1VwZGF0ZSBBY2NvdW50IEluZm9ybWF0aW9uXShodHRwOi8vcGhpc2hpbmdzaXRlLmV4YW1wbGUuY29tKQoKRmFpbHVyZSB0byB2ZXJpZnkgeW91ciBpbmZvcm1hdGlvbiB3aXRoaW4gMjQgaG91cnMgd2lsbCByZXN1bHQgaW4gcGVybWFuZW50IHN1c3BlbnNpb24gb2YgeW91ciBhY2NvdW50LiBXZSBhcG9sb2dpemUgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5IGNhdXNlIGFuZCBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KCklmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgbmVlZCBmdXJ0aGVyIGFzc2lzdGFuY2UsIHBsZWFzZSBjb250YWN0IG91ciBjdXN0b21lciBzdXBwb3J0IHRlYW0uCgpUaGFuayB5b3UgZm9yIHlvdXIgY29vcGVyYXRpb24uCgpTaW5jZXJlbHksClRoZSBTZWN1cml0eSBUZWFtCk1heWJhbms=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hi [Your Name],\n\nThis is a reminder that your Netflix subscription will be renewed on July 20, 2024.\n\nPlan: Standard\nAmount: $13.99\n\nNo action is required on your part; your subscription will be renewed automatically. If you wish to make any changes to your plan, please visit your account settings.\n\n[Manage Your Subscription](https://www.netflix.com/account)\n\nThank you for being a valued member of Netflix.\n\nBest regards,\nThe Netflix Team\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgW1lvdXIgTmFtZV0sCgpUaGlzIGlzIGEgcmVtaW5kZXIgdGhhdCB5b3VyIE5ldGZsaXggc3Vic2NyaXB0aW9uIHdpbGwgYmUgcmVuZXdlZCBvbiBKdWx5IDIwLCAyMDI0LgoKUGxhbjogU3RhbmRhcmQKQW1vdW50OiAkMTMuOTkKCk5vIGFjdGlvbiBpcyByZXF1aXJlZCBvbiB5b3VyIHBhcnQ7IHlvdXIgc3Vic2NyaXB0aW9uIHdpbGwgYmUgcmVuZXdlZCBhdXRvbWF0aWNhbGx5LiBJZiB5b3Ugd2lzaCB0byBtYWtlIGFueSBjaGFuZ2VzIHRvIHlvdXIgcGxhbiwgcGxlYXNlIHZpc2l0IHlvdXIgYWNjb3VudCBzZXR0aW5ncy4KCltNYW5hZ2UgWW91ciBTdWJzY3JpcHRpb25dKGh0dHBzOi8vd3d3Lm5ldGZsaXguY29tL2FjY291bnQpCgpUaGFuayB5b3UgZm9yIGJlaW5nIGEgdmFsdWVkIG1lbWJlciBvZiBOZXRmbGl4LgoKQmVzdCByZWdhcmRzLApUaGUgTmV0ZmxpeCBUZWFtCg==" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "1" "We Need your account details to verify" "live" "no" "yes" 2>&1
+Parameters: {"callDuration":"1","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"no","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "5" "Hi , how are you .. you good?" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"5","commonWords":"Hi , how are you .. you good?","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Raw POST data: {"emailText":"Dear User,\nPlease click this link to enjoy a free vacation to singapore"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLApQbGVhc2UgY2xpY2sgdGhpcyBsaW5rIHRvIGVuam95IGEgZnJlZSB2YWNhdGlvbiB0byBzaW5nYXBvcmU=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Raw POST data: {"emailText":"Urgent: Action Required to Update Your Account Information\n\nDear Valued Customer,\n\nWe regret to inform you that your account has been temporarily suspended due to suspicious activity. To ensure the safety of your account, we require you to verify your information immediately.\n\nPlease click on the link below to update your account information:\n[Update Account Information](http://phishingsite.example.com)\n\nFailure to verify your information within 24 hours will result in permanent suspension of your account. We apologize for any inconvenience this may cause and appreciate your prompt attention to this matter.\n\nIf you have any questions or need further assistance, please contact our customer support team.\n\nThank you for your cooperation.\n\nSincerely,\nThe Security Team\nMaybank\n\nNote: This is an automated email. Please do not reply directly to this message.\n\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "VXJnZW50OiBBY3Rpb24gUmVxdWlyZWQgdG8gVXBkYXRlIFlvdXIgQWNjb3VudCBJbmZvcm1hdGlvbgoKRGVhciBWYWx1ZWQgQ3VzdG9tZXIsCgpXZSByZWdyZXQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdXIgYWNjb3VudCBoYXMgYmVlbiB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZHVlIHRvIHN1c3BpY2lvdXMgYWN0aXZpdHkuIFRvIGVuc3VyZSB0aGUgc2FmZXR5IG9mIHlvdXIgYWNjb3VudCwgd2UgcmVxdWlyZSB5b3UgdG8gdmVyaWZ5IHlvdXIgaW5mb3JtYXRpb24gaW1tZWRpYXRlbHkuCgpQbGVhc2UgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3cgdG8gdXBkYXRlIHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbjoKW1VwZGF0ZSBBY2NvdW50IEluZm9ybWF0aW9uXShodHRwOi8vcGhpc2hpbmdzaXRlLmV4YW1wbGUuY29tKQoKRmFpbHVyZSB0byB2ZXJpZnkgeW91ciBpbmZvcm1hdGlvbiB3aXRoaW4gMjQgaG91cnMgd2lsbCByZXN1bHQgaW4gcGVybWFuZW50IHN1c3BlbnNpb24gb2YgeW91ciBhY2NvdW50LiBXZSBhcG9sb2dpemUgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5IGNhdXNlIGFuZCBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KCklmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgbmVlZCBmdXJ0aGVyIGFzc2lzdGFuY2UsIHBsZWFzZSBjb250YWN0IG91ciBjdXN0b21lciBzdXBwb3J0IHRlYW0uCgpUaGFuayB5b3UgZm9yIHlvdXIgY29vcGVyYXRpb24uCgpTaW5jZXJlbHksClRoZSBTZWN1cml0eSBUZWFtCk1heWJhbmsKCk5vdGU6IFRoaXMgaXMgYW4gYXV0b21hdGVkIGVtYWlsLiBQbGVhc2UgZG8gbm90IHJlcGx5IGRpcmVjdGx5IHRvIHRoaXMgbWVzc2FnZS4KCg==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Raw POST data: {"emailText":"fffffffffffff"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ZmZmZmZmZmZmZmZmZg==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Raw POST data: {"emailText":"Dear Miss,\n\nyou have won 1000$ prize click link to claim\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBNaXNzLAoKeW91IGhhdmUgd29uIDEwMDAkIHByaXplIGNsaWNrIGxpbmsgdG8gY2xhaW0K" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Dear User,\nYou have just won 2000$, click to claim"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "RGVhciBVc2VyLApZb3UgaGF2ZSBqdXN0IHdvbiAyMDAwJCwgY2xpY2sgdG8gY2xhaW0=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "2" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"2","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "6" "We Need your account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"6","commonWords":"We Need your account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "7" "How are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"7","commonWords":"How are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Raw POST data: {"emailText":"im fine"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aW0gZmluZQ==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"im fine"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aW0gZmluZQ==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"im fine"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "aW0gZmluZQ==" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hi Syed Tameem Ahmed\n\nThis is a reminder that your Netflix subscription will be renewed on July 20, 2024.\n\nPlan: Standard\nAmount: $13.99\n\nNo action is required on your part; your subscription will be renewed automatically. If you wish to make any changes to your plan, please visit your account settings.\n\n[Manage Your Subscription](https://www.netflix.com/account)\n\nThank you for being a valued member of Netflix.\n\nBest regards,\nThe Netflix Team"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgU3llZCBUYW1lZW0gQWhtZWQKClRoaXMgaXMgYSByZW1pbmRlciB0aGF0IHlvdXIgTmV0ZmxpeCBzdWJzY3JpcHRpb24gd2lsbCBiZSByZW5ld2VkIG9uIEp1bHkgMjAsIDIwMjQuCgpQbGFuOiBTdGFuZGFyZApBbW91bnQ6ICQxMy45OQoKTm8gYWN0aW9uIGlzIHJlcXVpcmVkIG9uIHlvdXIgcGFydDsgeW91ciBzdWJzY3JpcHRpb24gd2lsbCBiZSByZW5ld2VkIGF1dG9tYXRpY2FsbHkuIElmIHlvdSB3aXNoIHRvIG1ha2UgYW55IGNoYW5nZXMgdG8geW91ciBwbGFuLCBwbGVhc2UgdmlzaXQgeW91ciBhY2NvdW50IHNldHRpbmdzLgoKW01hbmFnZSBZb3VyIFN1YnNjcmlwdGlvbl0oaHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vYWNjb3VudCkKClRoYW5rIHlvdSBmb3IgYmVpbmcgYSB2YWx1ZWQgbWVtYmVyIG9mIE5ldGZsaXguCgpCZXN0IHJlZ2FyZHMsClRoZSBOZXRmbGl4IFRlYW0=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"\nSyed Tameem Ahmed <sy3d2000@gmail.com>\nSun, Jul 7, 5:34 AM\nto me\n\nUrgent: Action Required to Update Your Account Information\n\nDear Valued Customer,\n\nWe regret to inform you that your account has been temporarily suspended due to suspicious activity. To ensure the safety of your account, we require you to verify your information immediately.\n\nPlease click on the link below to update your account information:\n[Update Account Information](http://phishingsite.example.com)\n\nFailure to verify your information within 24 hours will result in permanent suspension of your account. We apologize for any inconvenience this may cause and appreciate your prompt attention to this matter.\n\nIf you have any questions or need further assistance, please contact our customer support team.\n\nThank you for your cooperation.\n\nSincerely,\nThe Security Team\nMaybank\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "ClN5ZWQgVGFtZWVtIEFobWVkIDxzeTNkMjAwMEBnbWFpbC5jb20+ClN1biwgSnVsIDcsIDU6MzTigK9BTQp0byBtZQoKVXJnZW50OiBBY3Rpb24gUmVxdWlyZWQgdG8gVXBkYXRlIFlvdXIgQWNjb3VudCBJbmZvcm1hdGlvbgoKRGVhciBWYWx1ZWQgQ3VzdG9tZXIsCgpXZSByZWdyZXQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdXIgYWNjb3VudCBoYXMgYmVlbiB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZHVlIHRvIHN1c3BpY2lvdXMgYWN0aXZpdHkuIFRvIGVuc3VyZSB0aGUgc2FmZXR5IG9mIHlvdXIgYWNjb3VudCwgd2UgcmVxdWlyZSB5b3UgdG8gdmVyaWZ5IHlvdXIgaW5mb3JtYXRpb24gaW1tZWRpYXRlbHkuCgpQbGVhc2UgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3cgdG8gdXBkYXRlIHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbjoKW1VwZGF0ZSBBY2NvdW50IEluZm9ybWF0aW9uXShodHRwOi8vcGhpc2hpbmdzaXRlLmV4YW1wbGUuY29tKQoKRmFpbHVyZSB0byB2ZXJpZnkgeW91ciBpbmZvcm1hdGlvbiB3aXRoaW4gMjQgaG91cnMgd2lsbCByZXN1bHQgaW4gcGVybWFuZW50IHN1c3BlbnNpb24gb2YgeW91ciBhY2NvdW50LiBXZSBhcG9sb2dpemUgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5IGNhdXNlIGFuZCBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KCklmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgbmVlZCBmdXJ0aGVyIGFzc2lzdGFuY2UsIHBsZWFzZSBjb250YWN0IG91ciBjdXN0b21lciBzdXBwb3J0IHRlYW0uCgpUaGFuayB5b3UgZm9yIHlvdXIgY29vcGVyYXRpb24uCgpTaW5jZXJlbHksClRoZSBTZWN1cml0eSBUZWFtCk1heWJhbmsK" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":" just checked in turnitin and found only 5 students submitted to turnitin. For those 5 students, please reprint your originality index and attach (replace) with your Final Project Report. As for the remaining 12 students, I cannot see your report in turnitin so I am unable to adjust your high similarity index. \n\nReplies to this email will be posted as a reply to the announcement, which will be seen by everyone in the course."}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "IGp1c3QgY2hlY2tlZCBpbiB0dXJuaXRpbiBhbmQgZm91bmQgb25seSA1IHN0dWRlbnRzIHN1Ym1pdHRlZCB0byB0dXJuaXRpbi4gRm9yIHRob3NlIDUgc3R1ZGVudHMsIHBsZWFzZSByZXByaW50IHlvdXIgb3JpZ2luYWxpdHkgaW5kZXggYW5kIGF0dGFjaCAocmVwbGFjZSkgd2l0aCB5b3VyIEZpbmFsIFByb2plY3QgUmVwb3J0LiBBcyBmb3IgdGhlIHJlbWFpbmluZyAxMiBzdHVkZW50cywgSSBjYW5ub3Qgc2VlIHlvdXIgcmVwb3J0IGluIHR1cm5pdGluIHNvIEkgYW0gdW5hYmxlIHRvIGFkanVzdCB5b3VyIGhpZ2ggc2ltaWxhcml0eSBpbmRleC4gCgpSZXBsaWVzIHRvIHRoaXMgZW1haWwgd2lsbCBiZSBwb3N0ZWQgYXMgYSByZXBseSB0byB0aGUgYW5ub3VuY2VtZW50LCB3aGljaCB3aWxsIGJlIHNlZW4gYnkgZXZlcnlvbmUgaW4gdGhlIGNvdXJzZS4=" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "1" "are you ok" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"1","commonWords":"are you ok","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "3" "I need account details to verify" "live" "yes" "no" 2>&1
+Parameters: {"callDuration":"3","commonWords":"I need account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "3" "I need account details to verify" "live" "yes" "yes" 2>&1
+Parameters: {"callDuration":"3","commonWords":"I need account details to verify","callType":"live","personalInfoRequest":"yes","emotionTactics":"yes"}
+Output: This call is most likely a fraud.
+
+Command: "C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe" predict_model.py "5" "how are you" "live" "no" "no" 2>&1
+Parameters: {"callDuration":"5","commonWords":"how are you","callType":"live","personalInfoRequest":"no","emotionTactics":"no"}
+Output: This call is most likely not a fraud.
+
+Raw POST data: {"emailText":"I just checked in turnitin and found only 5 students submitted to turnitin. For those 5 students, please reprint your originality index and attach (replace) with your Final Project Report. As for the remaining 12 students, I cannot see your report in turnitin so I am unable to adjust your high similarity index. \n\nReplies to this email will be posted as a reply to the announcement, which will be seen by everyone in the course."}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SSBqdXN0IGNoZWNrZWQgaW4gdHVybml0aW4gYW5kIGZvdW5kIG9ubHkgNSBzdHVkZW50cyBzdWJtaXR0ZWQgdG8gdHVybml0aW4uIEZvciB0aG9zZSA1IHN0dWRlbnRzLCBwbGVhc2UgcmVwcmludCB5b3VyIG9yaWdpbmFsaXR5IGluZGV4IGFuZCBhdHRhY2ggKHJlcGxhY2UpIHdpdGggeW91ciBGaW5hbCBQcm9qZWN0IFJlcG9ydC4gQXMgZm9yIHRoZSByZW1haW5pbmcgMTIgc3R1ZGVudHMsIEkgY2Fubm90IHNlZSB5b3VyIHJlcG9ydCBpbiB0dXJuaXRpbiBzbyBJIGFtIHVuYWJsZSB0byBhZGp1c3QgeW91ciBoaWdoIHNpbWlsYXJpdHkgaW5kZXguIAoKUmVwbGllcyB0byB0aGlzIGVtYWlsIHdpbGwgYmUgcG9zdGVkIGFzIGEgcmVwbHkgdG8gdGhlIGFubm91bmNlbWVudCwgd2hpY2ggd2lsbCBiZSBzZWVuIGJ5IGV2ZXJ5b25lIGluIHRoZSBjb3Vyc2Uu" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
+Raw POST data: {"emailText":"Urgent: Action Required to Update Your Account Information\n\nDear Valued Customer,\n\nWe regret to inform you that your account has been temporarily suspended due to suspicious activity. To ensure the safety of your account, we require you to verify your information immediately.\n\nPlease click on the link below to update your account information:\n[Update Account Information](http://phishingsite.example.com)\n\nFailure to verify your information within 24 hours will result in permanent suspension of your account. We apologize for any inconvenience this may cause and appreciate your prompt attention to this matter.\n\nIf you have any questions or need further assistance, please contact our customer support team.\n\nThank you for your cooperation.\n\nSincerely,\nThe Security Team\nMaybank"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "VXJnZW50OiBBY3Rpb24gUmVxdWlyZWQgdG8gVXBkYXRlIFlvdXIgQWNjb3VudCBJbmZvcm1hdGlvbgoKRGVhciBWYWx1ZWQgQ3VzdG9tZXIsCgpXZSByZWdyZXQgdG8gaW5mb3JtIHlvdSB0aGF0IHlvdXIgYWNjb3VudCBoYXMgYmVlbiB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZHVlIHRvIHN1c3BpY2lvdXMgYWN0aXZpdHkuIFRvIGVuc3VyZSB0aGUgc2FmZXR5IG9mIHlvdXIgYWNjb3VudCwgd2UgcmVxdWlyZSB5b3UgdG8gdmVyaWZ5IHlvdXIgaW5mb3JtYXRpb24gaW1tZWRpYXRlbHkuCgpQbGVhc2UgY2xpY2sgb24gdGhlIGxpbmsgYmVsb3cgdG8gdXBkYXRlIHlvdXIgYWNjb3VudCBpbmZvcm1hdGlvbjoKW1VwZGF0ZSBBY2NvdW50IEluZm9ybWF0aW9uXShodHRwOi8vcGhpc2hpbmdzaXRlLmV4YW1wbGUuY29tKQoKRmFpbHVyZSB0byB2ZXJpZnkgeW91ciBpbmZvcm1hdGlvbiB3aXRoaW4gMjQgaG91cnMgd2lsbCByZXN1bHQgaW4gcGVybWFuZW50IHN1c3BlbnNpb24gb2YgeW91ciBhY2NvdW50LiBXZSBhcG9sb2dpemUgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5IGNhdXNlIGFuZCBhcHByZWNpYXRlIHlvdXIgcHJvbXB0IGF0dGVudGlvbiB0byB0aGlzIG1hdHRlci4KCklmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgbmVlZCBmdXJ0aGVyIGFzc2lzdGFuY2UsIHBsZWFzZSBjb250YWN0IG91ciBjdXN0b21lciBzdXBwb3J0IHRlYW0uCgpUaGFuayB5b3UgZm9yIHlvdXIgY29vcGVyYXRpb24uCgpTaW5jZXJlbHksClRoZSBTZWN1cml0eSBUZWFtCk1heWJhbms=" 2>&1
+Output: c3BhbQ==
+
+JSON Response: {"result":"spam"}
+Raw POST data: {"emailText":"Hi Team,\n\nThis is a reminder for our project kickoff meeting scheduled for tomorrow.\n\nDate: July 15, 2024\nTime: 10:00 AM\nLocation: Conference Room 2\n\nAgenda:\n1. Introductions\n2. Project overview\n3. Roles and responsibilities\n4. Timeline and milestones\n5. Q&A\n\nPlease make sure to bring any materials or questions you might have.\n\nBest regards,\nJohn Doe\nProject Manager\n"}
+Command: C:\Users\brouf\AppData\Local\Programs\Python\Python312\python.exe "D:\xamp\htdocs\Final Year Project\predict.py" "SGkgVGVhbSwKClRoaXMgaXMgYSByZW1pbmRlciBmb3Igb3VyIHByb2plY3Qga2lja29mZiBtZWV0aW5nIHNjaGVkdWxlZCBmb3IgdG9tb3Jyb3cuCgpEYXRlOiBKdWx5IDE1LCAyMDI0ClRpbWU6IDEwOjAwIEFNCkxvY2F0aW9uOiBDb25mZXJlbmNlIFJvb20gMgoKQWdlbmRhOgoxLiBJbnRyb2R1Y3Rpb25zCjIuIFByb2plY3Qgb3ZlcnZpZXcKMy4gUm9sZXMgYW5kIHJlc3BvbnNpYmlsaXRpZXMKNC4gVGltZWxpbmUgYW5kIG1pbGVzdG9uZXMKNS4gUSZBCgpQbGVhc2UgbWFrZSBzdXJlIHRvIGJyaW5nIGFueSBtYXRlcmlhbHMgb3IgcXVlc3Rpb25zIHlvdSBtaWdodCBoYXZlLgoKQmVzdCByZWdhcmRzLApKb2huIERvZQpQcm9qZWN0IE1hbmFnZXIK" 2>&1
+Output: bm90IHNwYW0=
+
+JSON Response: {"result":"not spam"}
